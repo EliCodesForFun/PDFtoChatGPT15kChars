@@ -30,3 +30,10 @@ You can also change the `chat_gpt_prompt` variable, as I was using it to summari
 
 
 Run the .py file and and it will output a .txt file for the book, as well as chunks that are about 15,000 characters in length.
+
+
+
+Example of a chunk we will receive:
+
+![image](https://user-images.githubusercontent.com/9376306/229176221-67e1abbe-6f8f-4ab5-ac08-1bb317f03629.png)
+
